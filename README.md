@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👾~ ikerSH ~👾
 
-<!--
-**ikerSH/ikerSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 [Full Stack Developer | SecurityOriented | Software Engineer](https://www.linkedin.com/in/iker-santana-589b04129?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌎 Languages
+
+- Spanish (native)
+- English (C1)
+
+---
+
+## 🌐 Developing
+
+- `JAVA`
+- `C++`
+- `C#`
+- `PYTHON`
+- `JAVASCRIPT` - `REACT (JSX)`
+- `HTML` - `PHP` – `CSS` - `JSON` - `XAML`
+- `SQL`
+- `API REST`
+- `GIT / GITHUB`
+
+---
+
+## 🔒 Cybersecurity
+
+- Network Penetration Testing - VPN
+- Network Traffic Analysis
+- OSINT
+- Cryptography - Hashing
+- Digital Forensics
+
+---
+
+## 🖨️ Modeling and 3D Printing
+
+---
+
+## 🛸 Drone Pilot
